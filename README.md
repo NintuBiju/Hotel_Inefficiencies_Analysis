@@ -1,7 +1,9 @@
 🏨 Hotel Operations Efficiency Analysis
+
 A data analytics project identifying inefficiencies in hotel room service and operations across 2019–2024.
 
 Overview
+
 This was my first end-to-end data analytics project, built entirely in Excel. The goal was to dig into hotel operational data and surface the root causes of inefficiency — from slow task completion to complaint spikes — using a structured, multi-angle analysis approach.
 
 Dataset
@@ -12,6 +14,7 @@ Scope: Room service requests, guest complaints, occupancy rates, employee perfor
 
 
 Project Structure
+
 The project is organized into 12 analysis sections:
 
 Summary Statistics — Overall operational metrics: service requests, completion times, complaints, occupancy
